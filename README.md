@@ -15,7 +15,7 @@ Data source: https://github.com/thunlp/DocRED
 
 
 
-Sample tsv and label.txt files are provided for better understanding of the code.
+Sample tsv and label.txt files are provided under R-BERT/data/fold_0 for better understanding of the code.
 
 
 References <br>
